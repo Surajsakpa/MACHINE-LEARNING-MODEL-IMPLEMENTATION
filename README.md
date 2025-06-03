@@ -35,7 +35,12 @@ Machine learning is a powerful tool that allows systems to learn from data and m
   ```
 
 ### Deployment
-Once the model has been evaluated and tuned, it can be deployed for practical use. Deployment involves integrating the model into applications where it can generate predictions based on new incoming data. This step may also require consideration of performance monitoring and model retraining strategies.
+Once the model has been evaluated and tuned, it can be deployed for practical use. Deployment involves integrating the model into applications where it can generate predictions based on new incoming data. This 
+step may also require consideration of performance monitoring and model retraining strategies.
+
+![Image](https://github.com/user-attachments/assets/c492c312-3564-4e54-ba20-6a8fee97a90e)
+![Image](https://github.com/user-attachments/assets/599f21c6-d8ba-4379-a052-7abed3c58814)
+![Image](https://github.com/user-attachments/assets/59f997d8-b7be-4a57-9d8d-067de4feb621)
 
 ### Conclusion
 In summary, the implementation of a machine learning model encompasses a multi-step process, including data preparation, model selection, training, and evaluation. Each phase requires meticulous attention to detail to ensure that the resulting model is both accurate and reliable. Libraries such as Scikit-learn play a crucial role in simplifying this process, but it is essential to ensure all necessary packages are properly installed to avoid errors during implementation.
